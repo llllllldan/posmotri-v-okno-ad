@@ -1,2 +1,1 @@
-# ПОСМОТРИ В ОКНО
-https://github.com/egoraleh/posmotri-v-okno-ad
+https://github.com/llllllldan/posmotri-v-okno-ad
